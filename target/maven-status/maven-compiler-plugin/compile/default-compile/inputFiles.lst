@@ -1,6 +1,8 @@
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\controller\BarangController.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\controller\JenisBarangController.java
+C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\controller\KaryawanController.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\controller\MetodePembayaranController.java
+C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\controller\PelangganController.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\controller\PemasokController.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\controller\StatusTransaksiController.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\controller\TransaksiController.java
@@ -8,7 +10,9 @@ C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\contro
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\controller\TransaksiLogController.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\model\Barang.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\model\JenisBarang.java
+C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\model\Karyawan.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\model\MetodePembayaran.java
+C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\model\Pelanggan.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\model\Pemasok.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\model\StatusTransaksi.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\model\Transaksi.java
@@ -16,7 +20,9 @@ C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\model\
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\model\TransaksiLog.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\repository\BarangRepository.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\repository\JenisBarangRepository.java
+C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\repository\KaryawanRepository.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\repository\MetodePembayaranRepository.java
+C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\repository\PelangganRepository.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\repository\PemasokRepository.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\repository\StatusTransaksiRepository.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\repository\TransaksiDetailRepository.java
@@ -26,7 +32,9 @@ C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\B
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\BarangNotFoundException.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\BarangService.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\JenisBarangService.java
+C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\KaryawanService.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\MetodePembayaranService.java
+C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\PelangganService.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\PemasokService.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\StatusTransaksiService.java
 C:\transaksi-tanpaToken\src\main\java\ui\ft\ccit\faculty\transaksi\barang\view\TransaksiDetailService.java
