@@ -1,5 +1,8 @@
 package ui.ft.ccit.faculty.transaksi.barang;
 
+import java.util.List;
+
+import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -7,11 +10,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.ActiveProfiles;
 
 import ui.ft.ccit.faculty.transaksi.barang.model.Barang;
-import ui.ft.ccit.faculty.transaksi.barang.model.BarangRepository;
-
-import java.util.List;
-
-import static org.assertj.core.api.Assertions.assertThat;
+import ui.ft.ccit.faculty.transaksi.barang.repository.BarangRepository;
 
 @SpringBootTest
 @ActiveProfiles("local")
